@@ -12,6 +12,10 @@
 [Youtube Link](https://www.youtube.com/watch?v=FNOlgQgdyBQ)
 
 
+**LINK TO PLAYABLE GAME IN GITHUB PAGES**
+https://angelarodri42.github.io/gmd-project/
+
+
 
 **ASSETS**
 
