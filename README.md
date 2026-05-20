@@ -7,6 +7,12 @@
 - 6# Blog Post: [GitHub](https://github.com/angelarodri42/gmd-project/blob/main/BlogPosts/6BlogPost.md)
 - Personal Reflection: [GitHub](https://github.com/angelarodri42/gmd-project/blob/main/BlogPosts/PersonalReflection.md)
 
+**YOUTUBE LINK**
+
+[Youtube Link](https://www.youtube.com/watch?v=FNOlgQgdyBQ)
+
+
+
 **ASSETS**
 
 For ground, background, platforms, obstacles, and enemies:
@@ -19,4 +25,10 @@ For action sounds (jumping, attacking, dying):
 - Leohpaz: [AssetStore](https://assetstore.unity.com/packages/audio/sound-fx/rpg-essentials-sound-effects-free-227708)
 
 For background music:
-- NekoLegends:[AssetStore](https://assetstore.unity.com/packages/audio/music/music-cat-in-a-box-free-single-306461)
+- NekoLegends: [AssetStore](https://assetstore.unity.com/packages/audio/music/music-cat-in-a-box-free-single-306461)
+
+
+
+
+
+
