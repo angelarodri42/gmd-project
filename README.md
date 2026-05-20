@@ -1,13 +1,14 @@
 **BLOG POST**
-- 1# Blog Post:
-- 2# Blog Post:
-- 3# Blog Post:
-- 4# Blog Post:
-- 5# Blog Post:
-- 6# Blog Post:
-- Personal Reflection:
+- 1# Blog Post: [GitHub](https://github.com/angelarodri42/gmd-project/blob/main/BlogPosts/1BlogPost.md)
+- 2# Blog Post: [GitHub](https://github.com/angelarodri42/gmd-project/blob/main/BlogPosts/2BlogPost.md)
+- 3# Blog Post: [GitHub](https://github.com/angelarodri42/gmd-project/blob/main/BlogPosts/3BlogPost.md)
+- 4# Blog Post: [GitHub](https://github.com/angelarodri42/gmd-project/blob/main/BlogPosts/4BlogPost.md)
+- 5# Blog Post: [GitHub](https://github.com/angelarodri42/gmd-project/blob/main/BlogPosts/5BlogPost.md)
+- 6# Blog Post: [GitHub](https://github.com/angelarodri42/gmd-project/blob/main/BlogPosts/6BlogPost.md)
+- Personal Reflection: [GitHub](https://github.com/angelarodri42/gmd-project/blob/main/BlogPosts/PersonalReflection.md)
 
 **ASSETS**
+
 For ground, background, platforms, obstacles, and enemies:
 - BigManJD: [AssetStore](https://assetstore.unity.com/packages/2d/environments/platformer-tileset-pixelart-grasslands-248158)
 
